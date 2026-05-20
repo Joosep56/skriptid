@@ -16,8 +16,6 @@ Tunnitöö!
 
 ```game.sh``` - Arvamismäng
 
-```random.txt``` - Juhuslik laiendite fail
-
 ```Read_from_file ``` -- Ülesanne
 
 ``` task_01.sh ``` -- Iseseisev ül 1
